@@ -1,7 +1,6 @@
 # depslib dependency file v1.0
-1655896877 source:c:\users\acer\documents\codeblocks\final\main.c
+1656337312 source:c:\users\acer\documents\codeblocks\final\main.c
 	<stdio.h>
-	<string.h>
 	<stdlib.h>
-	<math.h>
+	<string.h>
 
